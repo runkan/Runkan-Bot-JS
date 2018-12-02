@@ -1,4 +1,4 @@
 # Runkan-Bot-JS
 
-change    botconfig.json
+change    botconfig.json and
 change   src   config.json
